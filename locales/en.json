@@ -1,0 +1,132 @@
+{
+  "pages": {
+    "landing": {
+      "hero": {
+        "firstTitle": "Developers web, apps and plugins",
+        "secondTitle": "Innovative technological solutions",
+        "thirdTitle": "Digital development experts",
+        "firstDescription": "Programmers Full Stack Web with more than 14 years of experience and 300 web, apps, integrations developed at national and international level",
+        "secondDescription": "We create customized applications and solutions that drive the growth of your business",
+        "thirdDescription": "High-quality software development tailored to your specific needs",
+        "firstSubtitle": "We accompany Startups and Fintech for their growth",
+        "secondSubtitle": "Transforming ideas into digital solutions",
+        "thirdSubtitle": "Customized development for your business",
+        "button": "Contact us"
+      },
+      "pricing": {
+        "cardOne": {
+          "title": "Pro Professionals"
+        },
+        "cardTwo": {
+          "title": "Created Apps"
+        },
+        "cardThree": {
+          "title": "Created Web Apps"
+        },
+        "cardFour": {
+          "title": "AI Training"
+        }
+      },
+      "about": {
+        "description": "Each development is special and unique, I carry it out with passion to deliver a quality product"
+      },
+      "member": {
+        "title": "Why become a Member?",
+        "description": "Join 4000+ members landing remote roles at global companies with tailored career support.",
+        "cards": [
+          {
+            "title": "Strategic Career Growth",
+            "description": "Unlock personalized strategies to advance your remote work career."
+          },
+          {
+            "title": "Global Networking",
+            "description": "Connect with top-tier global companies and expand your professional network."
+          },
+          {
+            "title": "Skill Development",
+            "description": "Access tailored resources and training to enhance your remote work skills."
+          },
+          {
+            "title": "Comprehensive Support",
+            "description": "Receive end-to-end career guidance from industry experts."
+          }
+        ],
+        "button": "View Plans"
+      },
+      "faq": {
+        "title": "No te quedes con la duda.",
+        "description": "No te quedes con la duda.",
+        "subscription_validity": {
+          "question": "How long is the subscription valid?",
+          "answer": "Each subscription is valid for 1 calendar year. You can access your system, and the WhatsApp shipping package is valid as long as you have available credits."
+        },
+        "what_is_wafidely": {
+          "question": "What is Wafidely?",
+          "answer": "It is a startup created and supported by full-stack developers from Mexico, Pakistan, and Ecuador to help businesses engage their customers with automated responses via WhatsApp, providing statistics for appointments or event confirmations."
+        },
+        "uses_ai": {
+          "question": "Does the application use artificial intelligence?",
+          "answer": "Yes, we use AI to automate processes, leveraging various AI tools provided by AWS."
+        },
+        "use_my_business_whatsapp_number": {
+          "question": "Can I use my business WhatsApp number?",
+          "answer": "Yes, you can use it when selecting the custom plan. The process to activate your number may take 30 to 90 days."
+        },
+        "landing_page_for_marketing_campaigns": {
+          "question": "Can I have a landing page for my digital marketing campaigns?",
+          "answer": "When creating your account on our platform, the system will ask you to fill in your business or event information to generate a URL, which can be used for commercial purposes or appointment scheduling."
+        },
+        "whatsapp_notifications_number": {
+          "question": "From which WhatsApp number will notifications be sent to my clients?",
+          "answer": "Notifications are sent from a WhatsApp number approved by Meta for sending notifications. This number is used for all accounts and displays the Wafidely or Wimtut logo and name."
+        },
+        "start_sending_appointments_reminders": {
+          "question": "When can I start sending appointment or event reminders and confirmations?",
+          "answer": "You can start sending reminders as soon as you register on the platform with the corresponding payment. You can upload a file in Excel or CSV format to import your data based on the subscription plan. The system counts the records and only uploads up to 2,000. If you have more records, you need to contact support."
+        }
+      },
+      "wapp": {
+        "title": "Wappi Customers",
+        "description": "Since 2009"
+      }
+    }
+  },
+  "layout": {
+    "header": {
+      "start": "Start",
+      "pricing": "Pricing",
+      "successCases": "Success Cases",
+      "register": "Register",
+      "login": "Login"
+    },
+    "footer": {
+      "call_to_action": "Start using Wafidely now!",
+      "description": "Intuitive web system easy to use, with innovative new versions every 6 months.",
+      "register_button": "REGISTER",
+      "company_info": {
+        "title": "Wafidely",
+        "description": "It allows you to send automatic reminders to WhatsApp and receive responses directly on WhatsApp. The response is stored in the Wafidely admin."
+      },
+      "plans": {
+        "title": "Plans",
+        "waPyme": "WaPyme",
+        "waMedium": "WaMedium",
+        "waLarge": "WaLarge"
+      },
+      "info": {
+        "title": "Information",
+        "faq": "Frequently Asked Questions",
+        "terms": "Terms and Conditions",
+        "support": "Support"
+      },
+      "social_media": {
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "tiktok": "TikTok"
+      }
+    },
+    "footer_bottom": {
+      "copyright": "© 2024 Copyright WAPPIAD S.A.S. All Rights Reserved"
+    }
+  }
+}

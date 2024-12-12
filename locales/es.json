@@ -1,0 +1,132 @@
+{
+  "pages": {
+    "landing": {
+      "hero": {
+        "firstTitle": "Desarrolladores web, apps y plugins",
+        "secondTitle": "Soluciones tecnológicas innovadoras",
+        "thirdTitle": "Desarrolladores digitales especializados",
+        "firstDescription": "Programadores Full Stack Web con más de 14 años de experiencia y 300 proyectos web, apps, integraciones desarrollados a nivel nacional e internacional",
+        "secondDescription": "Creamos aplicaciones y soluciones personalizadas que impulsan el crecimiento de su negocio",
+        "thirdDescription": "Desarrollo de software de alta calidad adaptado a sus necesidades específicas",
+        "firstSubtitle": "Acompañamos Startups y Fintech para su crecimiento",
+        "secondSubtitle": "Transformando ideas en soluciones digitales",
+        "thirdSubtitle": "Desarrollo personalizado para su negocio",
+        "button": "Contáctanos"
+      },
+      "pricing": {
+        "cardOne": {
+          "title": "Profesionales Pro"
+        },
+        "cardTwo": {
+          "title": "Aplicaciones Creadas"
+        },
+        "cardThree": {
+          "title": "Aplicaciones Web Creadas"
+        },
+        "cardFour": {
+          "title": "Entrenamiento de IA"
+        }
+      },
+      "about": {
+        "description": "Cada desarrollo es especial y único, lo realizo con pasión para entregar un producto de calidad"
+      },
+      "member": {
+        "title": "Por que se tornar um Membro?",
+        "description": "Únete a más de 4000 miembros buscando empleos remotos en empresas globales con soporte de carrera personalizado.",
+        "cards": [
+          {
+            "title": "Crecimiento de carrera estratégico",
+            "description": "Desbloquea estrategias personalizadas para avanzar en tu carrera de trabajo remoto."
+          },
+          {
+            "title": "Red global",
+            "description": "Conecta con empresas globales de alto nivel y expande tu red profesional."
+          },
+          {
+            "title": "Desarrollo de habilidades",
+            "description": "Accede a recursos y entrenamientos personalizados para mejorar tus habilidades de trabajo remoto."
+          },
+          {
+            "title": "Soporte completo",
+            "description": "Recibe orientación de carrera completa de expertos de la industria."
+          }
+        ],
+        "button": "Ver planos"
+      },
+      "wapp": {
+        "title": "Clientes Wappi",
+        "description": "Desde 2009"
+      },
+      "faq": {
+        "title": "No te quedes con la duda.",
+        "description": "No te quedes con la duda.",
+        "subscription_validity": {
+          "question": "¿Cuánto tiempo es válido el plan?",
+          "answer": "Cada plan es válido por 1 año. Puedes acceder a tu sistema y el paquete de envío de WhatsApp es válido mientras tengas créditos disponibles."
+        },
+        "what_is_wafidely": {
+          "question": "¿Qué es Wafidely?",
+          "answer": "Es una startup creada y apoyada por desarrolladores Full Stack de México, Pakistán y Ecuador para ayudar a las empresas a interactuar con sus clientes mediante respuestas automatizadas a través de WhatsApp, proporcionando estadísticas para citas o confirmaciones de eventos."
+        },
+        "uses_ai": {
+          "question": "¿La aplicación utiliza inteligencia artificial?",
+          "answer": "Sí, utilizamos IA para automatizar procesos, aprovechando varias herramientas de IA proporcionadas por AWS."
+        },
+        "use_my_business_whatsapp_number": {
+          "question": "¿Puedo usar mi número de WhatsApp comercial?",
+          "answer": "Sí, puedes usarlo cuando selecciones el plan personalizado. El proceso para activar tu número puede durar entre 30 y 90 días."
+        },
+        "landing_page_for_marketing_campaigns": {
+          "question": "¿Puedo tener una página de aterrizaje para mis campañas de marketing digital?",
+          "answer": "Cuando crees tu cuenta en nuestra plataforma, el sistema te pedirá que rellenes tus datos comerciales o de evento para generar una URL, que puede ser utilizada para fines comerciales o para la programación de citas."
+        },
+        "whatsapp_notifications_number": {
+          "question": "¿Desde qué número de WhatsApp se enviarán las notificaciones a mis clientes?",
+          "answer": "Las notificaciones se envían desde un número de WhatsApp aprobado por Meta para enviar notificaciones. Este número se utiliza para todas las cuentas y muestra el logo de Wafidely o Wimtut y su nombre."
+        },
+        "start_sending_appointments_reminders": {
+          "question": "¿Cuándo puedo empezar a enviar recordatorios de citas o confirmaciones?",
+          "answer": "Puedes empezar a enviar recordatorios tan pronto como te registres en la plataforma con el pago correspondiente. Puedes subir un archivo en formato Excel o CSV para importar tus datos según el plan de suscripción. El sistema cuenta los registros y solo sube hasta 2000. Si tienes más registros, necesitas contactar con soporte."
+        }
+      }
+    }
+  },
+  "layout": {
+    "header": {
+      "start": "Inicio",
+      "pricing": "Precios",
+      "successCases": "Casos de Éxito",
+      "register": "Registro",
+      "login": "Inicio Sesión"
+    },
+    "footer": {
+      "call_to_action": "¡Empieza a usar Wafidely ahora!",
+      "description": "Sistema web intuitivo fácil de usar, con nuevas versiones innovadoras cada 6 meses.",
+      "register_button": "REGISTRARSE",
+      "company_info": {
+        "title": "Wafidely",
+        "description": "Permite enviar recordatorios automáticos a WhatsApp y recibir respuestas directamente en WhatsApp. La respuesta se almacena en el administrador de Wafidely."
+      },
+      "plans": {
+        "title": "Planes",
+        "waPyme": "WaPyme",
+        "waMedium": "WaMedium",
+        "waLarge": "WaLarge"
+      },
+      "info": {
+        "title": "Información",
+        "faq": "Preguntas Frecuentes",
+        "terms": "Términos y Condiciones",
+        "support": "Soporte"
+      },
+      "social_media": {
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "tiktok": "TikTok"
+      }
+    },
+    "footer_bottom": {
+      "copyright": "© 2024 Copyright WAPPIAD S.A.S. Todos los derechos reservados"
+    }
+  }
+}
