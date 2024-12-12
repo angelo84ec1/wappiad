@@ -89,6 +89,49 @@
         "title": "Wappi Customers",
         "description": "Since 2009"
       }
+    },
+    "planes": {
+      "title": "Plans",
+      "button": "Start Now",
+      "time": "year",
+      "subscriptions": [
+        {
+          "name": "WaPyme",
+          "details": [
+            "Annual or until the 250 automated WhatsApp messages are used up"
+          ],
+          "benefits": [
+            "Automatic WhatsApp appointment reminders up to 250",
+            "Establishment QR code",
+            "Landing page with calendar appointment scheduling",
+            "Report of confirmed and canceled appointments"
+          ]
+        },
+        {
+          "name": "WaMedium",
+          "details": [
+            "Annual or until the 500 automated WhatsApp messages are used up"
+          ],
+          "benefits": [
+            "Automatic WhatsApp appointment reminders up to 500",
+            "Establishment QR code",
+            "Landing page with calendar appointment scheduling",
+            "Report of confirmed and canceled appointments"
+          ]
+        },
+        {
+          "name": "WaLarge",
+          "details": [
+            "Annual or until the 1000 automated WhatsApp messages are used up"
+          ],
+          "benefits": [
+            "Automatic WhatsApp appointment reminders up to 1000",
+            "Establishment QR code",
+            "Landing page with calendar appointment scheduling",
+            "Report of confirmed and canceled appointments"
+          ]
+        }
+      ]
     }
   },
   "layout": {

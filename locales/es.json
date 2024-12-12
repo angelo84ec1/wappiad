@@ -89,6 +89,55 @@
           "answer": "Puedes empezar a enviar recordatorios tan pronto como te registres en la plataforma con el pago correspondiente. Puedes subir un archivo en formato Excel o CSV para importar tus datos según el plan de suscripción. El sistema cuenta los registros y solo sube hasta 2000. Si tienes más registros, necesitas contactar con soporte."
         }
       }
+    },
+    "planes": {
+      "title": "Planes",
+      "button": "Empezar Ahora",
+      "time": "año",
+      "subscriptions": [
+        {
+          "name": "WaPyme",
+
+          "details": [
+            "Anuales o hasta que se terminen los 250 WhatsApp automáticos"
+          ],
+
+          "benefits": [
+            "Recordatorio automático de citas en WhatsApp hasta 250",
+            "Código QR del establecimiento",
+            "Página de aterrizaje con agendamiento de citas en calendario",
+            "Reporte de citas confirmadas y canceladas"
+          ]
+        },
+        {
+          "name": "WaMedium",
+
+          "details": [
+            "Anuales o hasta que se terminen los 500 WhatsApp automáticos"
+          ],
+
+          "benefits": [
+            "Recordatorio automático de citas en WhatsApp hasta 500",
+            "Código QR del establecimiento",
+            "Página de aterrizaje con agendamiento de citas en calendario",
+            "Reporte de citas confirmadas y canceladas"
+          ]
+        },
+        {
+          "name": "WaLarge",
+
+          "details": [
+            "Anuales o hasta que se terminen los 1000 WhatsApp automáticos"
+          ],
+
+          "benefits": [
+            "Recordatorio automático de citas en WhatsApp hasta 1000",
+            "Código QR del establecimiento",
+            "Página de aterrizaje con agendamiento de citas en calendario",
+            "Reporte de citas confirmadas y canceladas"
+          ]
+        }
+      ]
     }
   },
   "layout": {

@@ -313,7 +313,6 @@ nav::after {
 .mobile-menu .menuList {
   position: absolute;
   left: 0;
-  top: 100%;
   width: 100%;
   z-index: 999;
   background-color: #fff;

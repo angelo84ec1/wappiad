@@ -1,8 +1,6 @@
 <template>
-  <section class="bg-[#232c4d] mt-0 overflow-hidden pb-[5%]">
-    <div
-      class="container landing-cont !py-12 flex flex-col lg:flex-row items-center"
-    >
+  <section class="bg-[#232c4d] mt-0 overflow-hidden pb-[5%] px-[32px]">
+    <div class="landing-cont !py-12 flex flex-col lg:flex-row items-center">
       <!-- Left Content -->
       <div
         class="mr-auto place-self-center w-full lg:w-[60%] h-[300px] md:h-[340px] lg:h-[600px] overflow-hidden relative"
@@ -78,7 +76,7 @@
 
           <transition name="custom-fade" tag="div" class="overflow-hidden">
             <div
-              class="absolute lg:top-[15%] top-[0%] left-0 transition-all duration-500 ease-in-out h-[30rem] w-[30rem] lg:h-[18rem] lg:w-[18rem]"
+              class="absolute lg:top-[15%] top-[0%] left-0 transition-all duration-500 ease-in-out h-[30rem] w-[30rem] lg:h-[22rem] lg:w-[22rem]"
             >
               <img
                 :src="outerSource()"

@@ -89,15 +89,58 @@
           "answer": "Você pode começar a enviar lembretes assim que se registrar na plataforma com o pagamento correspondente. Você pode enviar um arquivo no formato Excel ou CSV para importar seus dados de acordo com o plano de assinatura. O sistema conta os registros e só envia até 2000. Se você tiver mais registros, você precisa entrar em contato com o suporte."
         }
       }
+    },
+    "planes": {
+      "title": "Planos",
+      "button": "Comece agora",
+      "time": "ano",
+      "subscriptions": [
+        {
+          "name": "WaPyme",
+          "details": [
+            "Anuais ou até que as 250 mensagens automáticas do WhatsApp sejam utilizadas"
+          ],
+          "benefits": [
+            "Lembretes automáticos de compromissos no WhatsApp até 250",
+            "Código QR do estabelecimento",
+            "Página de destino com agendamento de compromissos no calendário",
+            "Relatório de compromissos confirmados e cancelados"
+          ]
+        },
+        {
+          "name": "WaMedium",
+          "details": [
+            "Anuais ou até que as 500 mensagens automáticas do WhatsApp sejam utilizadas"
+          ],
+          "benefits": [
+            "Lembretes automáticos de compromissos no WhatsApp até 500",
+            "Código QR do estabelecimento",
+            "Página de destino com agendamento de compromissos no calendário",
+            "Relatório de compromissos confirmados e cancelados"
+          ]
+        },
+        {
+          "name": "WaLarge",
+          "details": [
+            "Anuais ou até que as 1000 mensagens automáticas do WhatsApp sejam utilizadas"
+          ],
+          "benefits": [
+            "Lembretes automáticos de compromissos no WhatsApp até 1000",
+            "Código QR do estabelecimento",
+            "Página de destino com agendamento de compromissos no calendário",
+            "Relatório de compromissos confirmados e cancelados"
+          ]
+        }
+      ]
     }
   },
   "layout": {
     "header": {
-      "start": "Inicio",
-      "pricing": "Precios",
-      "successCases": "Casos de Éxito",
-      "register": "Registro",
-      "login": "Inicio Sesión"
+      "start": "Início",
+      "pricing": "Preços",
+      "successCases": "Casos de Sucesso",
+      "register": "Registrar",
+      "login": "Entrar"
     },
     "footer": {
       "call_to_action": "Comece a usar Wafidely agora!",
